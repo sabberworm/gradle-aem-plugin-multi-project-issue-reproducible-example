@@ -18,7 +18,3 @@ pluginManagement {
 }
 
 rootProject.name = "aem-test"
-
-include(":package")
-
-

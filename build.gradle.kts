@@ -5,12 +5,3 @@ plugins {
 repositories {
 	jcenter()
 }
-
-aem {
-	tasks {
-		packageCompose {
-			mergePackageProject(":package")
-
-		}
-	}
-}
